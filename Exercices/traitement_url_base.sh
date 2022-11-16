@@ -15,8 +15,8 @@ fichier_tableau=$2 # le fichier HTML en sortie
 # !!!!!!
 # -i => donne des informations sur l'interaction avec le serveur (réponse du serveur) 
 # -IL => réponse du serveur + suit les intéractions
-
 # modifier la ligne suivante pour créer effectivement du HTML
+
 echo "Je dois devenir du code HTML à partir de la question 3" > $fichier_tableau
 
 lineno=1;
