@@ -20,6 +20,7 @@ fi
 
 mot="feminismo" # à modifier
 
+
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
 
@@ -39,6 +40,9 @@ while read -r URL; do
 	# autre façon, avec l'option -w de cURL
 	# code=$(curl -Ls -o /dev/null -w "%{http_code}" $URL)
 	# charset=$(curl -ILs -o /dev/null -w "%{content_type}" $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
+	
+	nb_occ=$(grep -o 'feminismo' $URL | wc)
+	echo "$nb_occ" > "aspirations/$basename-$lineno.txt"
 
 	echo -e "\tcode : $code";
 
@@ -62,8 +66,10 @@ while read -r URL; do
 		dump=""
 		charset=""
 	fi
+	
+	echo "$dump" > "dumps-text/$basename-$lineno.txt"
 
-	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td></tr>" >> $fichier_tableau
+	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td></tr><tr><td>$nb_occ</td><td>" >> $fichier_tableau
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
 done < $fichier_urls
