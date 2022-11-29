@@ -1,0 +1,1228 @@
+
+     * Brasil
+          + Lista alfabética de periódicos
+          + Lista temática de periódicos
+          + Busca
+          + Métricas
+          + Sobre: Brasil
+          + Contatos
+     * SciELO.org - Rede SciELO
+          + Coleções nacionais e temáticas
+          + Lista alfabética de periódicos
+          + Lista de periódicos por assunto
+          + Busca
+          + Métricas
+          + Acesso OAI e RSS
+          + Sobre a Rede SciELO
+          + Contatos
+     * Blog SciELO em Perspectiva
+
+   Abrir menu
+
+Brasil
+
+     * Trans/Form/Ação
+            Logomarca do periódico: Trans/Form/Ação
+               o Submissão de manuscritos
+               o Sobre o periódico
+               o Corpo Editorial
+               o Instruções aos autores
+               o Contato
+
+   Español English
+
+   Abrir menu
+
+Brasil
+
+   Español English
+   Trans/Form/Ação
+       Logomarca do periódico: Trans/Form/Ação
+          + Submissão de manuscritos
+          + Sobre o periódico
+          + Corpo Editorial
+          + Instruções aos autores
+          + Contato
+
+   sumário « anterior atual seguinte »
+   (BUTTON) Resumo
+     * Resumo (Português)
+     *
+     * Resumo (Inglês)
+     *
+
+   (BUTTON) Texto (PT)
+     * Texto (Português)
+
+   (BUTTON) PDF
+     * Download PDF (Português)
+
+   Compartilhe
+     * Compartilhe
+     * E-mail
+     * Facebook
+     * Twitter
+     * Google+
+     * LinkedIn
+     * Reddit
+     * StambleUpon
+     * CiteULike
+     * Mendeley
+
+   Sumário
+     * Compartilhe
+     * E-mail
+     * Facebook
+     * Twitter
+     * Google+
+     * LinkedIn
+     * Reddit
+     * StambleUpon
+     * CiteULike
+     * Mendeley
+
+   (BUTTON) Resumo
+     * Resumo (Português)
+     *
+     * Resumo (Inglês)
+     *
+
+   (BUTTON) Texto (PT)
+     * Texto (Português)
+
+   (BUTTON) PDF
+     * Download PDF (Português)
+
+   Artigos • Trans/Form/Ação 45 (spe) • 2022 •
+   https://doi.org/10.1590/0101-3173.2022.v45esp.15.p293   copiar
+
+O problema do sujeito político do feminismo: reflexões a partir de um viés
+descolonial
+
+The problem of the feminist political subject: considerations from a
+decolonial perspective
+
+   Juliana Oliveira Missaggia
+   Docente na Universidade Federal de Santa Maria (UFSM), Santa Maria, RS
+       - Brasil. E-mail:
+       jumissaggia@gmail.com.http://orcid.org/0000-0002-9170-8375
+
+   Sobre o autor
+
+Resumo:
+
+   Este artigo analisa o problema de determinar o sujeito político do
+   feminismo, uma vez que a categoria “mulher” passa a ser questionada e
+   interpretada de diferentes formas, na teoria feminista contemporânea.
+   Após apresentar brevemente as críticas ao essencialismo, por parte de
+   autoras bastante influentes do Norte global, investigam-se os
+   argumentos de pensadoras que defendem um viés descolonial. Sustenta-se
+   que a perspectiva descolonial precisa ser levada em consideração, no
+   momento de buscar categorias de análise adequadas ao movimento
+   feminista, no contexto do Sul global, respeitando-se suas
+   particularidades históricas e sociopolíticas.
+
+   Palavras-chave:
+   Filosofia feminista; Feminismo descolonial; Essencialismo; Sujeito
+   político
+
+Abstract:
+
+   This paper analyses the problem of determining who constitutes the
+   feminist political subject, since the contemporary feminist theory
+   inquires the existence of “woman” as a category and interprets it in
+   different ways. First, I briefly introduce the critiques to
+   essentialism by influential authors from the Global North, then I
+   investigate the arguments from thinkers who advocate a decolonial point
+   of view. I sustain that we must take the decolonial perspective into
+   consideration, which is crucial to find categories of analysis
+   apropriate to the feminist movement in the context of the Global South,
+   in order to respect its historical and socio-political particularities.
+
+   Keywords:
+   Feminist Philosophy; Decolonial Feminism; Essentialism; Political
+   Subject
+
+Introdução
+
+   Quem acompanha a militância e a produção acadêmica feminista
+   brasileira, nos últimos anos, está ciente de um de seus mais frequentes
+   debates: o problema de determinar quem constitui o sujeito político do
+   feminismo. A resposta mais imediata, aparentemente simples - “as
+   mulheres” -, gera uma série de dificuldades no momento de determinar
+   tal conceito, tanto em relação ao que significa ser mulher como no
+   sentido de quem pode assim se denominar. Tal desafio, não apenas
+   teórico, mas também resultante de diferentes práticas no interior da
+   militância, se configura atualmente como uma questão bastante debatida,
+   nas revistas acadêmicas dedicadas aos estudos feministas, mas raramente
+   é abordada com um olhar especificamente filosófico, menos ainda a
+   partir de uma análise que leve em conta a produção teórica das
+   filosofias produzidas no Sul global.
+
+   A importância da pergunta pelo sujeito político do feminismo, além do
+   resultado gerado nas pautas e ações dentro do movimento, envolve o
+   resgate de uma série de questões tão fundamentais quanto difíceis para
+   o debate de gênero: a discussão em torno do essencialismo, as
+   consequências políticas da suposta diluição da categoria “mulher”, a
+   busca por conciliar as demandas de um movimento, o qual, de forma
+   geral, sustenta a necessidade de ser pautado pela interseccionalidade,
+   porém, que se organiza majoritariamente em torno de uma pauta
+   identitária interpretada de forma diversa no interior do ativismo.^2 2
+   Um exemplo disso é a disputa entre as feministas radicais e as(os)
+   transfeministas, que possuem conceitos diferentes do que é ser mulher,
+   o que traz consequências para a prática política de cada grupo. Para
+   mais detalhes sobre essa questão, ver os estudos de Ribeiro, O’Dwyer e
+   Heilborn (2018), Souza (2017) e Bagagli (2019).
+
+   A contenda por trás de tal disputa e os argumentos centrais se
+   manifestam, por exemplo, a partir das concepções antiessencialistas, de
+   um lado, e do chamado “essencialismo estratégico”, de outro. Pretendo
+   apresentar, ainda que brevemente, as principais objeções ao
+   essencialismo, a postura antiessencialista e as considerações críticas
+   a versões radicais de antiessencialismo. Como horizonte mais específico
+   de análise, procurarei exemplificar como os argumentos dessas
+   diferentes respostas ao problema do sujeito político do feminismo
+   poderiam ser apropriados no contexto de uma produção feminista
+   brasileira.
+
+   Um dos meus argumentos centrais, conforme desenvolverei adiante,
+   enfatiza a importância de que os movimentos sociais do Sul global
+   sejam, preferencialmente, informados a partir de teorias produzidas
+   nessa região, as quais levem em consideração sua história e
+   particularidade. Há razões para crer, como será exemplificado, na
+   sequência, que algumas das disputas e dificuldades teóricas no interior
+   do movimento feminista brasileiro surjam justamente devido ao
+   espelhamento e importação de pautas e teorias oriundas de outros
+   contextos sociopolíticos (geralmente do Norte global), os quais nem
+   sempre coincidem com nossa conjuntura específica e demandas mais
+   urgentes.
+
+   De forma semelhante, grande parte da base teórica de grupos de
+   militância e pesquisas acadêmicas na área se concentra em textos
+   produzidos por autoras(es) oriundas(os) dos Estados Unidos e Europa,
+   nem sempre questionando suficientemente a aplicabilidade e a
+   pertinência de seus fundamentos filosóficos para o contexto brasileiro
+   e latino-americano. Embora não negue de maneira alguma a importância do
+   diálogo com a teoria feminista produzida no Norte global - a qual
+   também cito, ao longo do presente estudo -, defendo que essa seja
+   avaliada e apropriada de forma crítica, sempre à luz das condições
+   próprias da situação local.
+
+1 O debate feminista contemporâneo em torno do essencialismo da categoria
+mulher
+
+   Dada sua grande amplitude e complexidade, não caberia aqui um
+   detalhamento do debate em torno do essencialismo e do
+   antiessencialismo, no que concerne ao sujeito do feminismo, porém,
+   gostaria de apresentar a questão, dando atenção especial a autoras
+   bastante influentes para a produção feminista brasileira. A seguir,
+   farei a exposição de considerações a partir de um viés descolonial,
+   chamando a atenção para aquilo que considero uma teoria mais apropriada
+   para servir de base para a organização da luta de mulheres, no contexto
+   do Sul global.
+
+   Em poucas palavras, a posição essencialista sustenta que há alguma
+   essência feminina ou que há, em sentido amplo, elementos e
+   características femininas comuns que permitam fixar um grupo de pessoas
+   como sendo mulheres. O antiessencialismo, por outro lado, entende que
+   tal concepção de feminilidade é um recurso artificial, que não encontra
+   nenhum correspondente concreto, mas apenas impõe uma série de
+   estereótipos a um conjunto de pessoas, sendo uma consequência, embora
+   implícita, da metafísica essencialista acerca do sujeito, típica da
+   tradição filosófica ocidental.
+
+   Cressida Heyes (2000HEYES, Cressida J. Line drawings: Defining women
+   through feminist practice. Ithaca: Cornell University Press, 2000., p.
+   37) distingue quatro modos pelos quais o essencialismo se manifesta, no
+   pensamento feminista: i) essencialismo metafísico, que sustenta haver
+   essências femininas e masculinas, as quais existiriam além das
+   construções sociais de gênero; ii) essencialismo biológico, que situa
+   supostas características essenciais de homens e mulheres em seus
+   aspectos biológicos; iii) essencialismo linguístico, o qual conecta um
+   sentido particular estático para o termo “mulher” e iv) essencialismo
+   metodológico, que mantém alguma noção geral e abstrata de gênero como
+   categoria de análise social fixa.
+
+   Em uma análise histórica, é possível identificar diferentes momentos e
+   influências para o estabelecimento das críticas ao essencialismo, tanto
+   no plano teórico-filosófico como na teoria que surge diretamente da
+   prática feminista e dos debates oriundos dos espaços de militância.^3 3
+   Embora a produção acadêmica e não acadêmica do feminismo mantenha um
+   diálogo, nem sempre tal interlocução ocorre de maneira tão imediata e
+   horizontal, conforme argumenta Maluf (2004). Devido a isso, procuro
+   fazer essa diferenciação. É importante demarcar que a base para tal
+   disputa nasce a partir do fim dos anos 1960, com o fortalecimento do
+   movimento feminista, sobretudo nos Estados Unidos. Nesse contexto, a
+   organização de mulheres de diferentes origens e situações
+   socioeconômicas faz surgir no interior do ativismo feminista a crítica
+   sobre os limites da noção de “mulher” como representativa enquanto
+   categoria política.
+
+   Mulheres negras, latinas, lésbicas, periféricas e com diferentes
+   especificidades questionam em que medida são contempladas nas pautas do
+   movimento e o quanto a noção abstrata, generalista e vaga de “mulher”
+   não acaba por encobrir diferentes vivências e violências estruturais
+   próprias a certas condições que ultrapassam a mera feminilidade: o
+   racismo sofrido pelas mulheres não brancas^4 4 Nesse contexto,
+   normalmente chamadas de “women of color”, o que englobava, com suas
+   especificidades, a violência racial contra mulheres negras, latinas e
+   indígenas. , a lesbofobia sofrida pelas lésbicas, e assim por diante.
+   Tais reflexões, mais do que questionar apenas a noção de “mulher”
+   enquanto categoria política, abalavam também algumas das bases da
+   organização feminista, quer no plano teórico, quer no prático: até que
+   ponto a noção “mulher” dá conta da vivência e da identidade de tais
+   pessoas, a ponto de justificar a organização coletiva em um movimento
+   de mulheres? Se mulheres brancas e ricas têm privilégios de raça e
+   classe, podendo mesmo oprimir outras companheiras, como se organizar
+   politicamente nessa pluralidade e conciliar agendas e pautas?
+
+   A partir desse contexto, mudanças fundamentais se consolidaram no
+   feminismo. Trabalhos importantes desenvolveram tais temas, através dos
+   esforços de diferentes autoras e ativistas que criticam a teoria
+   feminista hegemônica, como bell hooks (1981HOOKS, Bell. Ain’t I a
+   woman: Black women and feminism, v. 3. Boston: South End, 1981.), Audre
+   Lorde (1997LORDE, Audre. Age, race, class, and sex: Women redefining
+   difference. Cultural Politics, v. 11, p. 374-380, 1997.), Cherríe
+   Moraga (1988MORAGA, Cherríe. Esta puente, mi espalda: voces de mujeres
+   tercermundistas en los San Francisco: ISM, 1988.), Gloria Anzaldúa
+   (2015ANZALDÚA, Gloria; MORAGA, Cherríe (ed.). This bridge called my
+   back: Writings by radical women of color. Albany: Suny, 2015.), entre
+   outras. O problema de tentar homogeneizar a luta feminista, com base,
+   apenas, na categoria “mulher”, e a necessidade de discutir e tornar
+   explícitas as diversas opressões paralelas são pontos perfeitamente
+   expostos por Audre Lorde, que aponta ainda para a possibilidade de
+   opressões e preconceitos serem mantidos e reproduzidos mesmo
+   internamente a grupos marginalizados, exigindo a constante autocrítica
+   por parte das militantes:
+
+     Ignorar as diferenças de raça entre as mulheres e as implicações
+     dessas diferenças representa o mais sério risco para a mobilização
+     de forças conjuntas de mulheres. Quando mulheres brancas ignoram
+     seus privilégios brancos incorporados e definem mulher em termos
+     apenas de sua própria experiência, então mulheres de cor (women of
+     Color) se tornam o “outro”, o estranho cuja experiência e tradição
+     são muito “alienígenas” para serem compreendidas. [...] As
+     diferenças entre nós enquanto mulheres negras também têm sido
+     ignoradas e usadas para nos separar umas das outras. [...] O medo de
+     lésbicas, ou de serem acusadas de ser lésbicas, têm levado muitas
+     mulheres negras a depor contra si mesmas. (LORDE, 2012LORDE, Audre.
+     Sister outsider: Essays and speeches. New York: Crossing, 2012., p.
+     110-112).
+
+   Outro fator que contribuiu para a questão em torno do essencialismo na
+   noção de sujeito do feminismo, e que surge como um elemento paralelo, o
+   qual se relaciona e influencia a teoria feminista, é constituído pelas
+   diversas transformações na filosofia contemporânea, sobretudo o
+   pós-estruturalismo e muitas das suas repercussões e desenvolvimentos,
+   por vezes denominados “pós-modernos”. Embora possamos certamente
+   apontar Simone de Beauvoir como uma antecessora dessas questões, na
+   filosofia contemporânea^5 5 Especiamente, é claro, pela fundamental
+   obra O segundo sexo, publicada pela primeira vez em 1949. , uma
+   radicalização da posição antiessencialista surge sobretudo a partir da
+   influência dos filósofos Lacan, Derrida, Deleuze e Foucault, entre
+   outros. Nessa linha, podemos destacar certas autoras feministas, como
+   Joan Scott, Luce Irigaray, Julia Kristeva e Judith Butler. A filósofa
+   estadunidense Butler, em particular, é extremamente influente nos
+   estudos de gênero, no Brasil. Quando se trata do debate sobre a
+   categoria política “mulher”, seja na academia, seja no interior do
+   movimento feminista, a filósofa é citada com frequência.
+
+   A influência do pós-estruturalismo na teoria feminista e o efeito da
+   diluição da categoria “mulher” podem ser exemplificados pelas
+   concepções de Joan Scott e Judith Butler acerca da não neutralidade da
+   concepção “corpo”. A evidência da radicalidade da desconstrução a que
+   tais autoras chegaram está em suas críticas a concepções que apenas
+   diferenciam gênero e sexo, mas mantêm o último enquanto mero fato
+   a-histórico. Ou seja: para elas, mesmo sexo e corpo são constructos
+   linguísticos, históricos e sociais.^6 6 Para um aprofundamento dessa
+   questão específica, ver os trabalhos de Silvana Aparecida Mariano
+   (2005a, 2005b), de quem, em grande parte, sigo o percurso
+   argumentativo.
+
+   Scott argumenta sobre o gênero em seus usos descritivos e dos limites
+   de uma definição que parte da dicotomia entre sexo e gênero. Segundo a
+   autora, “[...] uma teoria que se baseia na variável única da diferença
+   física impõe problemas [...]: pressupõe um sentido fixo ou inerente
+   para o corpo humano - alheio à construção social ou cultural - e,
+   portanto, a não historicidade do gênero em si.” (SCOTT, 1986SCOTT, Joan
+   W. Gender: a useful category of historical analysis. The American
+   historical review, v. 91, n. 5, p. 1053-1075, 1986., p. 1059). Desse
+   modo, segundo Scott, é preciso romper com a teoria de gênero-padrão, a
+   qual entende sexo como um elemento a-histórico e “natural”, a partir do
+   qual a noção de gênero é construída.^7 7 Um exemplo paradigmático do
+   tipo de teoria ao qual Scott se refere seria o modo como Gayle Rubin
+   analisa o chamado “sistema sexo/gênero”, em seu clássico artigo de
+   1975.
+
+   De forma semelhante, Butler argumenta:
+
+     É minha sugestão que a suposta universalidade e unidade do sujeito
+     do feminismo são de fato minadas pelas restrições do discurso
+     representacional em que funcionam. Com efeito, a insistência
+     prematura num sujeito estável do feminismo, compreendido como uma
+     categoria una das mulheres gera, inevitavelmente, múltiplas recusas
+     a aceitar essa categoria. (BUTLER, 2003BUTLER, Judith. Problemas de
+     gênero: feminismo e subversão da identidade. Rio de Janeiro: Record,
+     2003., 21-22).
+
+     Quando a “cultura” relevante que “constrói” o gênero é compreendida
+     nos termos dessa lei ou conjunto de leis, tem-se a impressão de que
+     o gênero é tão determinado e tão fixo quanto na formulação de que a
+     biologia é o destino. Nesse caso, não a biologia, mas a cultura se
+     torna o destino. [...] No entanto [...] o “corpo” é em si mesmo uma
+     construção [...] Não se pode dizer que os corpos tenham uma
+     existência significável anterior à marca do seu gênero.^8 8 Meu
+     interesse, neste momento, é apenas o de fazer um apanhado das ideias
+     - a maior parte oriunda do Norte global -, que têm grande influência
+     no debate brasileiro sobre o sujeito do feminismo. Devido a isso,
+     não pretendo aprofundar questões atinentes a interpretações. Pelo
+     mesmo motivo, cito preferencialmente somente as obras mais populares
+     de cada autora. (BUTLER, 2003BUTLER, Judith. Problemas de gênero:
+     feminismo e subversão da identidade. Rio de Janeiro: Record, 2003.,
+     26-27).
+
+   Butler chama a atenção, portanto, para o fato de que muitas teorias
+   feministas acabam por atribuir à categoria de gênero um entendimento
+   rígido de como a socialização se dá: mulheres educadas para se
+   comportar de determinado modo (presas a estereótipos específicos de
+   feminilidade), homens de outro modo (outro conjunto de estereótipos,
+   esses associados à masculinidade-padrão). Embora essas feministas
+   critiquem a imposição de tais padrões e os reconheçam como um fenômeno
+   cultural alterável, esse tipo de esquema por elas defendido permanece
+   insuficiente, devido sobretudo à simplificação em torno da vivência
+   concreta das identidades de gênero. Apresenta-se uma estrutura binária
+   e pré-estabelecida, a qual não dá conta de explicar sujeitos que
+   subvertem tais identidades, como mulheres lidas socialmente como
+   “masculinas”, homens tachados de “afeminados”, pessoas que não se
+   identificam com o gênero a elas atribuído ao nascimento (pessoas trans)
+   etc.
+
+   Butler aponta ainda que “corpo” não pode ser entendido como uma
+   realidade fixa e imutável, alheia às significações - inclusive
+   simbólicas - a ele atribuídas. Nesse sentido, ao opor, de um lado,
+   sexo/corpo/biologia, e, de outro, gênero/cultura/socialização, a teoria
+   feminista permaneceria vinculada à estrutura binária típica da tradição
+   filosófica ocidental. Isso seria particularmente nocivo, devido à
+   insuficiência tanto conceitual como prática de tal tradição, a qual
+   seria incapaz de tematizar sujeitos considerados fora das
+   normas-padrão.
+
+   A tendência antiessencialista de desconstrução desse tipo de
+   entendimento de gênero, no entanto, também gerou uma série de reações
+   internas ao movimento e à teoria feminista, as quais identificam um
+   desmantelamento da própria categoria política “mulher”, que seria
+   necessária à militância. Como Claudia de Lima Costa mostra muito bem,
+   algumas teóricas passam a realçar os limites do antiessencialismo, quer
+   no que concerne aos pressupostos filosóficos escusos por trás da
+   aparente abertura que a diluição do sujeito do feminismo propunha, quer
+   no que diz respeito às consequências nocivas para a prática política.
+   Esse primeiro aspecto fica bastante evidente nas críticas de algumas
+   autoras, como Alice Jardine (1988JARDINE, Alice. Gynesis: Figurations
+   of Woman and Modernity. Ithaca: Cornell University Press , 1988.) e
+   Teresa de Lauretis (1987LAURETIS, Teresa de. Technologies of Gender:
+   Essays on Theory, Film, and Fiction. Bloomington: Indiana University
+   Press, 1987.). Jardine (1988JARDINE, Alice. Gynesis: Figurations of
+   Woman and Modernity. Ithaca: Cornell University Press , 1988., p. 183)
+   mostra, por exemplo, que, para Derrida, a mulher é sempre “[...] o que
+   desafia o homem, o que o questiona.” Com esse tipo de referência,
+   conforme constata Lauretis (1987LAURETIS, Teresa de. Technologies of
+   Gender: Essays on Theory, Film, and Fiction. Bloomington: Indiana
+   University Press, 1987., p. 23-24), acaba-se “[...] novamente situando
+   a subjetividade feminina no sujeito masculino.”
+
+   O que tais autoras indicam é que a base filosófica que mais influencia
+   as ideias de Butler envolveria pressupostos conservadores implícitos.
+   Subjacente à revolução desse processo “pós-moderno” de diluição,
+   fragmentação ou subversão da categoria mulher, o que os filósofos
+   pós-estruturalistas estariam fazendo é apenas substituir o conceito
+   fixo e essencialista de feminilidade por uma noção que louva a mulher
+   como um fluir e um campo de possibilidades, em contraste com a rigidez
+   do masculino - ou seja, subverte-se o conceito de “mulher”, todavia,
+   não o hábito de desenvolvê-lo sempre tendo por referência o masculino.
+   Nesse sentido, pouco importa o aparente “elogio” à feminilidade
+   desenvolvido por muitos desses autores. Enquanto a mulher é mantida
+   como mero contraste para entender o homem, ela segue como subjetividade
+   mutilada, independentemente de qual noção de sujeito - fixa ou não -
+   esteja guiando essa teoria.
+
+   Uma segunda reação à “radicalização” da posição antiessencialista. a
+   partir dessas influências “pós-modernas”. surge com o questionamento,
+   extremamente importante, de quais seriam as consequências políticas da
+   total desconstrução da categoria mulher.^9 9 Isso, é claro, no caso de
+   entender que a desconstrução da categoria mulher é, de fato, o que
+   Butler defende em alguns de seus trabalhos. Embora não caiba aqui um
+   aprofundamento da questão, há, certamente, passagens que podem levar a
+   tal interpretação. Salienta Silvana Aparecida Mariano (2005b, p.1-2):
+   “Seguindo as elaborações de Foucault, Butler entende que esse sujeito
+   que o feminismo pretende representar é, na verdade, constituído
+   discursivamente pelo próprio feminismo, portanto, esse sujeito não
+   existe pré-discursivamente. Assim, aquilo que é alegadamente
+   representado é realmente ‘produzido’. Esta noção retira a base estável
+   de gênero.” Nas palavras de Butler (2003, p. 9): “Explicar as
+   categorias fundacionais de sexo, gênero e desejo como efeitos de uma
+   formação específica de poder supõe uma forma de investigação crítica, a
+   qual Foucault, reformulando Nietzsche, chamou de ‘genealogia’. [...] A
+   genealogia toma como foco o gênero e a análise relacional por ele
+   sugerida precisamente porque o ‘feminino’ já não parece mais uma noção
+   estável, sendo seu significado tão problemático e errático quanto o de
+   ‘mulher’, e porque ambos os termos ganham seu significado problemático
+   apenas como termos relacionais.” O argumento central de tal crítica é
+   que todas as demandas do movimento feminista e todas as políticas
+   públicas voltadas para combater as desigualdades de gênero partem
+   justamente do conceito “mulher”. Sem um meio para identificar o grupo
+   de pessoas a se organizar politicamente, seria impossível construir uma
+   agenda de lutas e garantir direitos.
+
+   Além disso, não somente as consequências práticas da postura
+   antiessencialista é questionada, porém, igualmente muitos de seus
+   fundamentos teóricos: embora a defesa de que há uma “essência” feminina
+   que tenha sido usada historicamente como meio de controle das mulheres,
+   a total descaracterização da noção de “mulher” parece apagar aspectos
+   materiais da vivência feminina, como aqueles ligados ao corpo. Segundo
+   argumenta essa linha crítica, o fato de que grande parte das pessoas
+   identificadas na sociedade como mulheres tenha sofrido algum tipo de
+   violência sexual, ainda na infância ou juventude, evidenciaria que há
+   questões bem concretas a serem analisadas antes de diluir completamente
+   a categoria política que une tais pessoas.
+
+   Esse conjunto de argumentos é o que podemos identificar como uma nova
+   frente para o debate em torno do essencialismo do sujeito do feminismo,
+   por vezes chamada de posição “antiantiessencialista”. Surgida
+   principalmente desde os anos 1990, suas críticas têm forte repercussão
+   nos debates feministas atuais. Ligadas a essa corrente de contestação
+   das consequências políticas da posição antiessencialista, podemos
+   incluir autoras que passam a questionar os fundamentos da Teoria Queer
+   e de algumas práticas do feminismo dominante, concebidos como
+   pejorativamente liberais e pós-modernos, pois centrados mais na
+   autoidentificação de indivíduos singulares do que em estruturas
+   materiais de opressão.
+
+   Um dos argumentos que vai nessa direção defende, como antídoto
+   intermediário para o problema filosófico que permeia a discussão, o
+   chamado “essencialismo estratégico” - proposto pela teórica indiana
+   Gayatri Chakravorty Spivak -, o qual teria como tese central a ideia de
+   que, mesmo que reconheçamos que as vivências das pessoas identificadas
+   como mulheres são múltiplas, mesmo que aceitemos os argumentos de que
+   não há nenhuma essência, em função da qual possamos fixar a ideia de
+   “mulher”, ainda assim seria necessário manter essa categoria,
+   justamente a partir do reconhecimento de experiências comuns de
+   opressão e para preservar a possibilidade prática de reivindicar
+   direitos. Trata-se, portanto, de um “[...] uso estratégico do
+   essencialismo”, porém, com “[...] um interesse político cuidadosamente
+   manifesto.” (SPIVAK, 1996SPIVAK, Gayatri C. The Spivak Reader. Edited
+   by Donna Landry & Gerald MacLean. New York: Routledge, 1996., p. 214).
+
+   Nessa mesma linha, argumenta a filósofa panamenha Linda Martín Alcoff
+   (1988MARTÍN ALCOFF, LINDA. Cultural Feminism Versus Post-Structuralism:
+   The Identity Crisis in Feminist Theory. Signs, v. 13 (3): 405-436,
+   1988., p. 420):
+
+     O que podemos exigir em nome das mulheres se “mulheres” não existem
+     e se demandas em seus nomes apenas reforçam o mito de que existem?
+     De que maneira podemos falar abertamente contra o machismo como
+     sendo prejudicial aos interesses das mulheres se tal categoria é uma
+     ficção? Como podemos demandar por abortos legais, creches adequadas,
+     ou salários baseados em valores compatíveis, sem invocar o conceito
+     de “mulher”?
+
+   Levando em conta a perspectiva descolonial^10 10 Para a escolha do
+   termo “descolonial” em lugar de “decolonial”, sigo o argumento do
+   filósofo Paulo Margutti (2018, p. 235-236). que gostaria de enfatizar,
+   chamo a atenção para a pertinência de muitos dos argumentos de teóricas
+   oriundas do Sul global para o debate aqui apresentado. Tanto a proposta
+   do “essencialismo estratégico”, da pensadora indiana Gayatri Spivak,
+   como apontamentos sobre os perigos de não levar suficientemente em
+   conta uma visão política mais ampla - inclusive geopolítica - acabam
+   por limitar as políticas identitárias e, inclusive, trazer o risco em
+   uma escolha equivocada de pautas e prioridades.
+
+   Concepções especificamente liberais de empoderamento - frequentemente
+   manifesto no destaque de uma pessoa específica da militância, por vezes
+   tratada enquanto “porta-voz” inquestionável -, bem como a apropriação
+   da pauta feminista em campanhas publicitárias de produtos, alguns
+   inclusive considerados nocivos ao meio ambiente, são apenas alguns
+   exemplos de dificuldades. É possível questionar, por exemplo, se a
+   especificidade dos movimentos políticos organizados majoritariamente,
+   de forma on-line, com o crescimento de práticas militantes
+   controversas, não poderia ser identificada como fonte de divisão
+   interna^11 11 Nesse contexto, são mencionadas práticas conhecidas nas
+   redes como “lacração” e “cancelamento”. Sobre esse tema, ver o trabalho
+   de Facchini, Carmo e Lima (2020). Gostaria ainda de destacar que tais
+   práticas também me parecem ser, ao menos em parte, “importadas” da
+   militância do Norte global, em particular dos Estados Unidos. ,
+   contribuindo para a diluição de uma organização em torno de bandeiras
+   potencialmente comuns, como a luta anti-imperialista^12 12 Sobre o
+   conceito de imperialismo contemporâneo, a partir da influência de
+   interesses do capital estrangeiro, no Brasil, e a condição subalterna
+   brasileira frente à imposição de pautas neoliberais, ver Fontes (2013).
+   , a conquista de direitos da classe trabalhadora e a manutenção de
+   serviços públicos de qualidade.
+
+   Por “perspectiva descolonial” entendo, com base no pensador peruano
+   Aníbal Quijano (1991QUIJANO, Anibal. Colonialidad,
+   modernidad/racialidad. Perú Indígena, v. 13, n. 29, p. 11-29, 1991.) e
+   na filósofa argentina María Lugones (2014), a reação ao projeto de
+   poder do colonialismo, o qual envolve não apenas a exploração da terra
+   e do trabalho das populações que sofreram processos de colonização, mas
+   também a imposição de ideologias específicas sobre como viver e se
+   organizar em sociedade. Dentre esses elementos: a classificação das
+   populações em termos raciais e o trabalho dividido a partir de
+   critérios raciais; a organização do trabalho, em razão da hegemonia do
+   capital; eurocentrismo e valores eurocêntricos como base para o
+   controle da subjetividade (desvalorizando a cultura local como
+   “primitiva” e tomando os valores do Norte global como universais).
+
+2 Corporeidade geograficamente situada e perspectiva materialista: caminhos
+do pensamento descolonial
+
+   É à luz, em particular, das contribuições das teóricas do pensamento
+   descolonial que gostaria de avaliar filosoficamente o problema do
+   sujeito político do feminismo e das dificuldades teóricas em torno da
+   relação entre os conceitos sexo e gênero. Embora menos lidas e
+   citadas^13 13 É digno de nota, para exemplificar, que María Lugones e
+   Sueli Carneiro, as quais estão entre as mais importantes filósofas e
+   teóricas do feminismo, na América Latina, tenham em torno de apenas,
+   respectivamente, 770 e 2720 citações em textos acadêmicos redigidos em
+   português, em uma consulta via Google Scholar (último acesso: 25 ago.
+   2020), enquanto Butler já foi citada (de acordo com a amostragem da
+   mesma plataforma de pesquisa) em mais de 15900 trabalhos, em nosso
+   idioma. De modo algum quero minimizar a importância da obra de Butler,
+   mas apenas fazer um questionamento de por que nos lemos e citamos tão
+   pouco, mesmo quando se trata de assuntos diretamente relacionados com
+   temas políticos, sociais e históricos, como o feminismo. do que autoras
+   do Norte global, como Butler, e, portanto, possivelmente menos
+   influentes, acredito que suas contribuições dialogam de maneira muito
+   mais produtiva e direta com o movimento de mulheres, no Brasil, país
+   também profundamente marcado pelo histórico de violência colonial e
+   imperialista.
+
+   Em seu seminal artigo “Rumo a um feminismo descolonial”, María Lugones
+   argumenta como a imposição de uma identidade de gênero para as
+   populações vítimas da violência colonial se deu por intermédio de uma
+   concepção de sexo na qual os colonizadores associavam a diferença
+   sexual da população colonizada de forma análoga à de animais, a partir
+   das categorias “machos” e “fêmeas”, e não enquanto “homens” e
+   “mulheres”, como aplicado aos próprios colonizadores. Tratava-se,
+   portanto, de uma divisão sexual que partia de distinções identificadas
+   na materialidade de corpos, associadas a um processo de desumanização:
+   diferenças anatômicas visualmente identificáveis e categorizadas como
+   análogas mais a de outros animais do que a de outros seres humanos.^14
+   14 É evidente que a filosofia europeia, marcadamente antropocêntrica e
+   dualista, também servia de base sustentadora para tais concepções
+   racistas, todavia, não caberia aqui um aprofundamento dessa questão.
+   Nesse sentido, contrapondo teorias de gênero abstratamente totalizantes
+   - com pretensões de explicar o complexo conceito de gênero, sem levar
+   em conta diferenças históricas e contextuais -, Lugones (2014, p.
+   937-938) argumenta:
+
+     É importante observar que, frequentemente, quando cientistas sociais
+     pesquisam sociedades colonizadas, a busca pela distinção sexual e
+     logo a construção da distinção de gênero resultam de observações das
+     tarefas realizadas por cada sexo. Ao fazê-lo, eles/elas afirmam a
+     inseparabilidade de sexo e gênero, característica que desponta
+     principalmente das primeiras análises feministas. Análises mais
+     contemporâneas têm introduzido argumentos pela reivindicação de que
+     gênero constrói sexo. Mas, na versão anterior, sexo fundamentava
+     gênero. Geralmente se confundiam: onde você vê sexo, verá gênero e
+     vice-versa. Porém, se estou certa sobre a colonialidade do gênero,
+     na distinção entre humano e não humano, sexo tinha que ser isolado.
+     Gênero e sexo não podiam ser ao mesmo tempo vinculados
+     inseparavelmente e racializados. O dimorfismo sexual converteu-se na
+     base para a compreensão dicotômica do gênero, a característica
+     humana. Alguém bem poderia ter interesse em argumentar que o sexo,
+     que permanecia isolado na bestialização dos/as colonizados/as, era,
+     afinal, gendrado. O que é importante para mim aqui é que se percebia
+     o sexo existindo isoladamente na caracterização de colonizados/as.
+     Isso me parece como um bom ponto de entrada para pesquisas que levem
+     a colonialidade a sério e pretendem estudar a historicidade e o
+     significado da relação entre sexo e gênero.
+
+   Assim, de fato, as influentes teorias de gênero do Norte global
+   analisam de formas diversas a relação entre as categorias sexo e gênero
+   - seja, por exemplo, entendendo que sexo é a base para a construção
+   social de gênero (como em Rubin), seja sustentando que sexo já é de
+   antemão determinado por concepções de gênero (como em Butler). Porém,
+   quando tais conceitos são avaliados à luz da historicidade,
+   verificam-se diferenças significativas na construção de identidades de
+   gênero e a necessidade de buscar bases teóricas que deem conta da
+   multiplicidade de vivências. É nesse sentido que não se poderia,
+   conforme sustenta Lugones, desconsiderar o processo de desumanização
+   que permeou a violência de gênero colonial.
+
+   É importante notar, nesse contexto, que a diferença sexual serviu
+   também de critério para a imposição de uma divisão sexual do trabalho
+   específica, a qual não seria mera reprodução da divisão do
+   trabalho-padrão para as classes colonizadoras dominantes. Isso se
+   manifesta de maneira evidente no fato de mulheres escravizadas
+   participarem constantemente do pesado trabalho braçal que era
+   imposto.^15 15 Acerca dessa questão, vale mencionar o importantíssimo
+   discurso de Sojourner Truth, proferido em 1851: “Aqueles homens ali
+   dizem que as mulheres precisam de ajuda para subir em carruagens, e
+   devem ser carregadas para atravessar valas, e que merecem o melhor
+   lugar onde quer que estejam. Ninguém jamais me ajudou a subir em
+   carruagens, ou a saltar sobre poças de lama, e nunca me ofereceram
+   melhor lugar algum! E não sou uma mulher? Olhem para mim. Olhem para
+   meus braços! Eu arei e plantei, e juntei a colheita nos celeiros, e
+   homem algum poderia estar à minha frente. E não sou uma mulher? Eu
+   poderia trabalhar tanto e comer tanto quanto qualquer homem - desde que
+   eu tivesse oportunidade para isso - e suportar o açoite também! E não
+   sou uma mulher? Eu pari treze filhos e vi a maioria deles ser vendida
+   para a escravidão, e quando eu clamei com a minha dor de mãe, ninguém a
+   não ser Jesus me ouviu! E não sou uma mulher?” E não sou uma mulher?
+   Portal Geledés, 2014. Disponível em:
+   https://www.geledes.org.br/e-nao-sou-uma-mulher-sojourner-truth/.
+   Acesso em: 22 ago. 2020. Ou seja, não é como se o estereótipo europeu
+   de feminilidade aplicado às suas classes dominantes - envolvendo
+   determinados elementos, como fragilidade e necessidade de proteção -
+   fosse transposto para a construção de gênero que colonizadores e
+   escravocratas tentavam impôr.
+
+   É nesse sentido também que destaco a base materialista de muitos dos
+   argumentos do feminismo descolonial, em contraste significativo com a
+   desconstrução das categorias (invocada por parte da Teoria Queer). A
+   socióloga argentina Vanesa Vazquez Laba (2008LABA, Vanessa Vazquez. Las
+   contribuciones del feminismo poscolonial a los estudios de género:
+   interseccionalidad, racismo y mujeres subalternas. Revista Perfiles de
+   la cultura cubana, Habana, p. 1-20, 2008.) chama a atenção para esse
+   aspecto, enfatizando a importância de centrar as análises no corpo e na
+   vivência corporificada ou encarnada. Não se trata de buscar um
+   essencialismo estático ou simplista, em função do conceito de corpo,
+   mas de apontar para o fato de que muitas das bandeiras que motivam a
+   luta feminista passam por uma concretização de experiências e
+   violências sofridas por corpos específicos. Evidentemente, tais
+   vivências corporificadas estão permeadas por questões simbólicas,
+   linguísticas, culturais, filosóficas, sociais etc. O ponto central é,
+   apenas, que não se reduzem a elas: são também experiências sentidas na
+   carne:
+
+     O sujeito não é uma entidade abstrata, mas sim material, encarnada
+     ou corporificada. O corpo não é uma coisa natural, pelo contrário, é
+     uma entidade socializada, codificada culturalmente; longe de ser uma
+     noção essencialista, constitui o lugar de interação do biológico, do
+     social, e do linguístico, isto é, da linguagem entendida como o
+     sistema simbólico fundamental de uma cultura. As teorias feministas
+     da diferença sexual assimilaram a perspectiva crítica das teorias
+     dominantes da subjetividade a fim de desenvolver uma nova forma de
+     ‘materialismo corporal’ [...]. Nessa linha, Spivak considera, em
+     relação ao corpo encarnado, que não deve ser tomado como uma
+     essência nem como um destino biológico, mas sim como a própria
+     localização primária no mundo, a própria situação na realidade. A
+     ênfase posta na corporeidade, ou seja, na natureza situada da
+     subjetividade, permite às feministas elaborar estratégias para
+     subverter os códigos culturais. (LABA, 2008LABA, Vanessa Vazquez.
+     Las contribuciones del feminismo poscolonial a los estudios de
+     género: interseccionalidad, racismo y mujeres subalternas. Revista
+     Perfiles de la cultura cubana, Habana, p. 1-20, 2008., p. 4-5).
+
+   É possível questionar, obviamente, até que ponto a própria tendência a
+   contrastar e dividir as categorias empregadas em “materiais”, de um
+   lado, e “linguísticas” ou “simbólicas”, de outro (o que se reflete no
+   debate feminista da relação entre sexo e gênero), não seria uma
+   reprodução do dualismo da tradição filosófica europeia. Esse, aliás,
+   parece-me ser o diagnóstico, acertado, da própria Butler (2003BUTLER,
+   Judith. Problemas de gênero: feminismo e subversão da identidade. Rio
+   de Janeiro: Record, 2003., p. 24-27). O problema, no entanto, é que
+   entendo que a solução, encontrada por ela e outras “filósofas da
+   desconstrução” do Norte global, para ir além da dicotomia, enfatiza a
+   superação dos conceitos enquanto materialmente entendidos. É o que
+   aparece, por exemplo, em certas afirmações, tais como: “[...] o ‘corpo’
+   é em si mesmo uma construção, assim como o é a miríade de ‘corpos’ que
+   constitui o domínio dos sujeitos com marcas de gênero.” (BUTLER,
+   2003BUTLER, Judith. Problemas de gênero: feminismo e subversão da
+   identidade. Rio de Janeiro: Record, 2003., p. 27). Eu as contrasto, no
+   entanto, com as reflexões das teóricas do Sul global, as quais,
+   igualmente cientes da base dualista da filosofia europeia, constroem um
+   pensamento que enfatiza a materialidade da vivência corporal: corpos
+   famintos - tanto humanos como não humanos - não apenas existem para
+   além de suas construções discursivas, como morrem sem carecer de
+   filosofias que questionem seus elementos linguísticos.^16 16 Gostaria
+   de ressaltar, no entanto, que considero Bodies that matter: on the
+   discursive limits of sex (1993), uma obra muito mais sofisticada em
+   relação a tais questões do que Gender trouble (1990). Contudo, como o
+   livro de 1993 recebeu uma tradução em português apenas no ano passado,
+   sendo ainda muito menos influente do que Problemas de gênero, foco meus
+   argumentos principalmente nesta última. Ainda assim, por razões que
+   aqui não teria espaço de detalhar, tampouco encontro em Bodies that
+   matter uma filosofia feminista que dê conta das peculiaridades do Sul
+   global, o que, aliás, tampouco creio ser a intenção de Butler, que
+   fala, naturalmente, com base em sua perspectiva situada. O que chamo a
+   atenção aqui é, justamente, ao questionarmos se temos feito o mesmo. O
+   diálogo de diferente pontos de vista, inclusive oriundos do Norte
+   global, é sempre bem-vindo, como foi aliás a intenção da obra de Butler
+   e Spivak, Who sings the nation-state?: Language, politics, belonging,
+   de 2007. Porém, diálogo pressupõe que ambos os lados falem, e minha
+   crítica é que não temos falado suficientemente - ao menos, não com
+   nossas próprias vozes.
+
+   Nessa mesma direção, ressaltam-se as considerações da filósofa
+   brasileira Sueli Carneiro, que aponta para a necessidade de “enegrecer
+   o feminismo”:
+
+     No Brasil e na América Latina, a violação colonial perpetrada pelos
+     senhores brancos contra as mulheres negras e indígenas e a
+     miscigenação daí resultante está na origem de todas as construções
+     de nossa identidade nacional, estruturando o decantado mito da
+     democracia racial latino-americana [...] (CARNEIRO, 2003CARNEIRO,
+     Sueli. Enegrecer o feminismo: a situação da mulher negra na América
+     Latina a partir de uma perspectiva de gênero. Racismos
+     contemporâneos. Rio de Janeiro, v. 49, p. 49-58, 2003., p. 1).
+
+     [...] é possível afirmar que o feminismo negro, construído no
+     contexto de sociedades multirraciais, pluriculturais e racistas -
+     como são as sociedades latino-americanas - tem como principal eixo
+     articulador o racismo e seu impacto sobre as relações de gênero, uma
+     vez que ele determina a própria hierarquia de gênero em nossas
+     sociedades. (CARNEIRO, 2003CARNEIRO, Sueli. Enegrecer o feminismo: a
+     situação da mulher negra na América Latina a partir de uma
+     perspectiva de gênero. Racismos contemporâneos. Rio de Janeiro, v.
+     49, p. 49-58, 2003., p. 3).
+
+   Não é possível, portanto, compreender a construção de gênero, no
+   Brasil, sem analisar o histórico de colonização que marca a identidade
+   nacional. Tal história é, como sabemos, caracterizada de forma profunda
+   pela violência colonial e escravocrata. Mais do que fatos trágicos
+   superados, as marcas desse passado estão bastante presentes e
+   demonstram a insuficiência das categorias de gênero simplificadoras.
+   Quando se fala, por exemplo, em desigualdade salarial entre homens e
+   mulheres, fica evidente a necessidade do marcador racial: no caso do
+   Brasil, é verdade que homens brancos têm uma média salarial maior do
+   que a de mulheres brancas, mas elas têm, em média, salários maiores do
+   que homens negros. As mais baixas remunerações estão com as mulheres
+   negras, as quais ganham menos do que mulheres brancas e menos do que
+   homens negros.^17 17 Instituto Brasileiro de Geografia e Estatística -
+   IBGE. Pesquisa por Amostra de Domicílios 2015 - PNAD. Disponível em:
+   https://ww2.ibge.gov.br/home/estatistica/populacao/trabalhoerendimento/
+   pnad2015/default_brasil.shtm. Acesso em: 25 ago. 2020.
+
+   É nesse sentido que penso, partindo das teóricas descoloniais, que o
+   conceito de “corporeidade situada” - influente, desde Beauvoir, nas
+   teorias de gênero do Norte global^18 18 Sobre a importância de tal
+   noção na obra de Beauvoir, ver o clássico artigo de Linnell Secomb
+   (1999, especialmente p. 97-98). , e cada vez mais presente em nossas
+   produções de filosofia feminista^19 19 Demarco essa questão, porque,
+   tratando-se de trabalhos de teoria feminista escritos por
+   pesquisadoras(es) de Filosofia, é comum que Beauvoir seja o ponto de
+   partida. Recentemente, muitas revistas brasileiras da área lançaram
+   edições na temática de filosofia feminista - como os periódicos Etic@
+   (v. 12, n 2), Ekstasis (v. 8, n. 2) e Peri (v. 10, n. 2) - o que
+   representa, sem dúvida, iniciativas louváveis para o incentivo à
+   diversidade, e diversificação, das nossas pesquisas acadêmicas.
+   Entretanto, se não formos atentas(os) aos alertas do filósofo Margutti
+   (2018) e da filósofa Susana de Castro (2019) sobre a necessidade de
+   descolonizar a filosofia, acabaremos por reproduzir, também nas
+   filosofias ditas “marginalizadas”, a lógica colonial e intelectualmente
+   cômoda de meros(as) comentaristas acríticos(as) da filosofia oriunda do
+   Norte global. - precisa ser apropriado, mas também transformado nos
+   termos próprios ao nosso contexto, levando em consideração elementos
+   históricos e culturais. Tal noção só nos poderá ser útil, na medida em
+   que se transmutar em corporeidade geograficamente situada, sempre
+   demarcando as condições materiais concretas de tal vivência corporal,
+   profundamente assinalada por fatores diversos e complexos, como raça,
+   classe, orientação sexual, bem como outros marcadores sociais.
+
+   Não basta, por conseguinte, seguir a crítica de Beauvoir à filosofia
+   que ignora a diferença sexual, universalizando a subjetividade (e
+   escondendo, por trás da falsa universalidade, a masculinidade do
+   sujeito). É preciso, partindo de nossa própria vivência e história, ir
+   além de Beauvoir e situar ainda mais a subjetividade: se queremos uma
+   fenomenologia justa às nossas necessidades, o corpo vivido precisará,
+   além de gênero, ter raça, classe, orientação sexual e origem
+   geográfica.
+
+Referências
+
+     * ANZALDÚA, Gloria; MORAGA, Cherríe (ed.). This bridge called my
+       back: Writings by radical women of color. Albany: Suny, 2015.
+     * BAGAGLI, Beatriz Pagliarini. Discursos transfeministas e feministas
+       radicais: disputas pela significação da mulher no feminismo. 2019.
+       Dissertação (Mestrado em Linguística) - Universidade Estadual de
+       Campinas, Campinas, 2019.
+     * BUTLER, Judith. Problemas de gênero: feminismo e subversão da
+       identidade. Rio de Janeiro: Record, 2003.
+     * BUTLER, Judith. Bodies that matter: On the discursive limits of
+       sex. Abingdon: Taylor & Francis, 2011.
+     * CARNEIRO, Sueli. Enegrecer o feminismo: a situação da mulher negra
+       na América Latina a partir de uma perspectiva de gênero. Racismos
+       contemporâneos. Rio de Janeiro, v. 49, p. 49-58, 2003.
+     * CASTRO, Susana de. O compromisso feminista com a luta decolonial
+       antirracista. Ekstasis: Revista de Hermenêutica e Fenomenologia, v.
+       8, n. 2, p. 63-71, 2019.
+     * SOUSA, Ematuir Teles de. Tensões sobre o sujeito do feminismo no
+       contemporâneo: mulheres trans e o transfeminismo no discurso do
+       feminismo radical. 2017. Dissertação (Mestrado em Psicologia) -
+       Universidade Federal de Santa Catarina, Florianópolis, 2017.
+     * FACCHINI, Regina; CARMO, Íris Nery do; LIMA, Stephanie Pereira.
+       Movimentos feminista, negro e lgbti no brasil: sujeitos, teias e
+       enquadramentos. Educação & Sociedade, v. 41, p. 01-22, 2020.
+     * FONTES, Virgínia. A incorporação subalterna brasileira ao
+       capital-imperialismo. Revista Crítica Marxista, Campinas, v. 36, p.
+       103-113, 2013.
+     * HEYES, Cressida J. Line drawings: Defining women through feminist
+       practice. Ithaca: Cornell University Press, 2000.
+     * HOOKS, Bell. Ain’t I a woman: Black women and feminism, v. 3.
+       Boston: South End, 1981.
+     * IBGE - Instituto Brasileiro de Geografia e Estatística. Pesquisa
+       por Amostra de Domicílios 2015 - PNAD. Disponível em: Disponível
+       em:
+       https://ww2.ibge.gov.br/home/estatistica/populacao/trabalhoerendime
+       nto/pnad2015/default_brasil.shtm Acesso em: 25 ago. 2020.
+       »
+       https://ww2.ibge.gov.br/home/estatistica/populacao/trabalhoerendime
+       nto/pnad2015/default_brasil.shtm
+     * JARDINE, Alice. Gynesis: Figurations of Woman and Modernity.
+       Ithaca: Cornell University Press , 1988.
+     * LABA, Vanessa Vazquez. Las contribuciones del feminismo poscolonial
+       a los estudios de género: interseccionalidad, racismo y mujeres
+       subalternas. Revista Perfiles de la cultura cubana, Habana, p.
+       1-20, 2008.
+     * LAURETIS, Teresa de. Technologies of Gender: Essays on Theory,
+       Film, and Fiction. Bloomington: Indiana University Press, 1987.
+     * LORDE, Audre. Age, race, class, and sex: Women redefining
+       difference. Cultural Politics, v. 11, p. 374-380, 1997.
+     * LORDE, Audre. Sister outsider: Essays and speeches. New York:
+       Crossing, 2012.
+     * MALUF, Sônia Weidner. Os dossiês da REF: além das fronteiras entre
+       academia e militância. Revista Estudos Feministas, v. 12, spe., p.
+       235-243, 2004.
+     * MARGUTTI, Paulo. Filosofia Brasileira e Pensamento Descolonial.
+       Sapere Aude, v. 9, n. 18, p. 223-239, 2018.
+     * MARIANO, Silvana Aparecida. The subject of feminism and
+       post-structuralism. Revista Estudos Feministas, v. 13, n. 3, p.
+       483-505, 2005a.
+     * MARIANO, Silvana Aparecida. Igualdade e diferenças nas teorias
+       feministas. In: Simpósio Nacional de História, XXIII., 2005,
+       Londrina. Anais […]. Londrina: ANPUH, 2005b, p. 1-12.
+     * MORAGA, Cherríe. Esta puente, mi espalda: voces de mujeres
+       tercermundistas en los San Francisco: ISM, 1988.
+     * MARTÍN ALCOFF, LINDA. Cultural Feminism Versus Post-Structuralism:
+       The Identity Crisis in Feminist Theory. Signs, v. 13 (3): 405-436,
+       1988.
+     * QUIJANO, Anibal. Colonialidad, modernidad/racialidad. Perú
+       Indígena, v. 13, n. 29, p. 11-29, 1991.
+     * RIBEIRO, Letícia; O’DWYER, Brena; HEILBORN, Maria Luiza. Dilemas do
+       feminismo e a possibilidade de radicalização da democracia em meio
+       às diferenças O caso da Marcha das Vadias do Rio de Janeiro.
+       Civitas - Revista de Ciências Sociais, v. 18, p. 83-99, 2018.
+     * RUBIN, Gayle. The traffic in women: Notes on the “political
+       economy” of sex. In: REITER, Rayna R. (ed.). Toward an anthropology
+       of women. , v. ew York, London: Monthly Review, 1975. p. 157-210.
+     * SCOTT, Joan W. Gender: a useful category of historical analysis.
+       The American historical review, v. 91, n. 5, p. 1053-1075, 1986.
+     * SECOMB, Linnell. Beauvoir’s minoritarian philosophy. Hypatia, v,
+       14, n. 4, p. 96-113, 1999.
+     * SPIVAK, Gayatri C. The Spivak Reader. Edited by Donna Landry &
+       Gerald MacLean. New York: Routledge, 1996.
+     * SPIVAK, Gayatri; BUTLER, Judith. Who sings the nation-state?:
+       Language, politics, belonging. New York: Seagull Books, 2007.
+     * TRUTH, Sojourner. E não sou uma mulher? Portal Geledés, 2014.
+       Disponível em: Disponível em:
+       https://www.geledes.org.br/e-nao-sou-uma-mulher-sojourner-truth/
+       Acesso em: 22 ago. 2020.
+       » https://www.geledes.org.br/e-nao-sou-uma-mulher-sojourner-truth/
+
+     * ^2
+       Um exemplo disso é a disputa entre as feministas radicais e as(os)
+       transfeministas, que possuem conceitos diferentes do que é ser
+       mulher, o que traz consequências para a prática política de cada
+       grupo. Para mais detalhes sobre essa questão, ver os estudos de
+       Ribeiro, O’Dwyer e Heilborn (2018RIBEIRO, Letícia; O’DWYER, Brena;
+       HEILBORN, Maria Luiza. Dilemas do feminismo e a possibilidade de
+       radicalização da democracia em meio às diferenças O caso da Marcha
+       das Vadias do Rio de Janeiro. Civitas - Revista de Ciências
+       Sociais, v. 18, p. 83-99, 2018.), Souza (2017SOUSA, Ematuir Teles
+       de. Tensões sobre o sujeito do feminismo no contemporâneo: mulheres
+       trans e o transfeminismo no discurso do feminismo radical. 2017.
+       Dissertação (Mestrado em Psicologia) - Universidade Federal de
+       Santa Catarina, Florianópolis, 2017.) e Bagagli (2019BAGAGLI,
+       Beatriz Pagliarini. Discursos transfeministas e feministas
+       radicais: disputas pela significação da mulher no feminismo. 2019.
+       Dissertação (Mestrado em Linguística) - Universidade Estadual de
+       Campinas, Campinas, 2019.).
+     * ^3
+       Embora a produção acadêmica e não acadêmica do feminismo mantenha
+       um diálogo, nem sempre tal interlocução ocorre de maneira tão
+       imediata e horizontal, conforme argumenta Maluf (2004MALUF, Sônia
+       Weidner. Os dossiês da REF: além das fronteiras entre academia e
+       militância. Revista Estudos Feministas, v. 12, spe., p. 235-243,
+       2004.). Devido a isso, procuro fazer essa diferenciação.
+     * ^4
+       Nesse contexto, normalmente chamadas de “women of color”, o que
+       englobava, com suas especificidades, a violência racial contra
+       mulheres negras, latinas e indígenas.
+     * ^5
+       Especiamente, é claro, pela fundamental obra O segundo sexo,
+       publicada pela primeira vez em 1949.
+     * ^6
+       Para um aprofundamento dessa questão específica, ver os trabalhos
+       de Silvana Aparecida Mariano (2005aMARIANO, Silvana Aparecida. The
+       subject of feminism and post-structuralism. Revista Estudos
+       Feministas, v. 13, n. 3, p. 483-505, 2005a., ^2005bMARIANO, Silvana
+       Aparecida. Igualdade e diferenças nas teorias feministas. In:
+       Simpósio Nacional de História, XXIII., 2005, Londrina. Anais […].
+       Londrina: ANPUH, 2005b, p. 1-12.), de quem, em grande parte, sigo o
+       percurso argumentativo.
+     * ^7
+       Um exemplo paradigmático do tipo de teoria ao qual Scott se refere
+       seria o modo como Gayle RubinRUBIN, Gayle. The traffic in women:
+       Notes on the “political economy” of sex. In: REITER, Rayna R.
+       (ed.). Toward an anthropology of women. , v. ew York, London:
+       Monthly Review, 1975. p. 157-210. analisa o chamado “sistema
+       sexo/gênero”, em seu clássico artigo de 1975.
+     * ^8
+       Meu interesse, neste momento, é apenas o de fazer um apanhado das
+       ideias - a maior parte oriunda do Norte global -, que têm grande
+       influência no debate brasileiro sobre o sujeito do feminismo.
+       Devido a isso, não pretendo aprofundar questões atinentes a
+       interpretações. Pelo mesmo motivo, cito preferencialmente somente
+       as obras mais populares de cada autora.
+     * ^9
+       Isso, é claro, no caso de entender que a desconstrução da categoria
+       mulher é, de fato, o que Butler defende em alguns de seus
+       trabalhos. Embora não caiba aqui um aprofundamento da questão, há,
+       certamente, passagens que podem levar a tal interpretação. Salienta
+       Silvana Aparecida Mariano (2005bMARIANO, Silvana Aparecida.
+       Igualdade e diferenças nas teorias feministas. In: Simpósio
+       Nacional de História, XXIII., 2005, Londrina. Anais […]. Londrina:
+       ANPUH, 2005b, p. 1-12., p.1-2): “Seguindo as elaborações de
+       Foucault, Butler entende que esse sujeito que o feminismo pretende
+       representar é, na verdade, constituído discursivamente pelo próprio
+       feminismo, portanto, esse sujeito não existe pré-discursivamente.
+       Assim, aquilo que é alegadamente representado é realmente
+       ‘produzido’. Esta noção retira a base estável de gênero.” Nas
+       palavras de Butler (2003BUTLER, Judith. Problemas de gênero:
+       feminismo e subversão da identidade. Rio de Janeiro: Record, 2003.,
+       p. 9): “Explicar as categorias fundacionais de sexo, gênero e
+       desejo como efeitos de uma formação específica de poder supõe uma
+       forma de investigação crítica, a qual Foucault, reformulando
+       Nietzsche, chamou de ‘genealogia’. [...] A genealogia toma como
+       foco o gênero e a análise relacional por ele sugerida precisamente
+       porque o ‘feminino’ já não parece mais uma noção estável, sendo seu
+       significado tão problemático e errático quanto o de ‘mulher’, e
+       porque ambos os termos ganham seu significado problemático apenas
+       como termos relacionais.”
+     * ^10
+       Para a escolha do termo “descolonial” em lugar de “decolonial”,
+       sigo o argumento do filósofo Paulo Margutti (2018MARGUTTI, Paulo.
+       Filosofia Brasileira e Pensamento Descolonial. Sapere Aude, v. 9,
+       n. 18, p. 223-239, 2018., p. 235-236).
+     * ^11
+       Nesse contexto, são mencionadas práticas conhecidas nas redes como
+       “lacração” e “cancelamento”. Sobre esse tema, ver o trabalho de
+       Facchini, Carmo e Lima (2020FACCHINI, Regina; CARMO, Íris Nery do;
+       LIMA, Stephanie Pereira. Movimentos feminista, negro e lgbti no
+       brasil: sujeitos, teias e enquadramentos. Educação & Sociedade, v.
+       41, p. 01-22, 2020.). Gostaria ainda de destacar que tais práticas
+       também me parecem ser, ao menos em parte, “importadas” da
+       militância do Norte global, em particular dos Estados Unidos.
+     * ^12
+       Sobre o conceito de imperialismo contemporâneo, a partir da
+       influência de interesses do capital estrangeiro, no Brasil, e a
+       condição subalterna brasileira frente à imposição de pautas
+       neoliberais, ver Fontes (2013FONTES, Virgínia. A incorporação
+       subalterna brasileira ao capital-imperialismo. Revista Crítica
+       Marxista, Campinas, v. 36, p. 103-113, 2013.).
+     * ^13
+       É digno de nota, para exemplificar, que María Lugones e Sueli
+       Carneiro, as quais estão entre as mais importantes filósofas e
+       teóricas do feminismo, na América Latina, tenham em torno de
+       apenas, respectivamente, 770 e 2720 citações em textos acadêmicos
+       redigidos em português, em uma consulta via Google Scholar (último
+       acesso: 25 ago. 2020), enquanto Butler já foi citada (de acordo com
+       a amostragem da mesma plataforma de pesquisa) em mais de 15900
+       trabalhos, em nosso idioma. De modo algum quero minimizar a
+       importância da obra de Butler, mas apenas fazer um questionamento
+       de por que nos lemos e citamos tão pouco, mesmo quando se trata de
+       assuntos diretamente relacionados com temas políticos, sociais e
+       históricos, como o feminismo.
+     * ^14
+       É evidente que a filosofia europeia, marcadamente antropocêntrica e
+       dualista, também servia de base sustentadora para tais concepções
+       racistas, todavia, não caberia aqui um aprofundamento dessa
+       questão.
+     * ^15
+       Acerca dessa questão, vale mencionar o importantíssimo discurso de
+       Sojourner Truth, proferido em 1851: “Aqueles homens ali dizem que
+       as mulheres precisam de ajuda para subir em carruagens, e devem ser
+       carregadas para atravessar valas, e que merecem o melhor lugar onde
+       quer que estejam. Ninguém jamais me ajudou a subir em carruagens,
+       ou a saltar sobre poças de lama, e nunca me ofereceram melhor lugar
+       algum! E não sou uma mulher? Olhem para mim. Olhem para meus
+       braços! Eu arei e plantei, e juntei a colheita nos celeiros, e
+       homem algum poderia estar à minha frente. E não sou uma mulher? Eu
+       poderia trabalhar tanto e comer tanto quanto qualquer homem - desde
+       que eu tivesse oportunidade para isso - e suportar o açoite também!
+       E não sou uma mulher? Eu pari treze filhos e vi a maioria deles ser
+       vendida para a escravidão, e quando eu clamei com a minha dor de
+       mãe, ninguém a não ser Jesus me ouviu! E não sou uma mulher?” E não
+       sou uma mulher? Portal GeledésTRUTH, Sojourner. E não sou uma
+       mulher? Portal Geledés, 2014. Disponível em: Disponível em:
+       https://www.geledes.org.br/e-nao-sou-uma-mulher-sojourner-truth/ .
+       Acesso em: 22 ago. 2020.
+       https://www.geledes.org.br/e-nao-sou-uma... , 2014. Disponível em:
+       https://www.geledes.org.br/e-nao-sou-uma-mulher-sojourner-truth/.
+       Acesso em: 22 ago. 2020.
+     * ^16
+       Gostaria de ressaltar, no entanto, que considero Bodies that
+       matter: on the discursive limits of sexBUTLER, Judith. Bodies that
+       matter: On the discursive limits of sex. Abingdon: Taylor &
+       Francis, 2011. (1993), uma obra muito mais sofisticada em relação a
+       tais questões do que Gender trouble (1990). Contudo, como o livro
+       de 1993 recebeu uma tradução em português apenas no ano passado,
+       sendo ainda muito menos influente do que Problemas de gênero, foco
+       meus argumentos principalmente nesta última. Ainda assim, por
+       razões que aqui não teria espaço de detalhar, tampouco encontro em
+       Bodies that matter uma filosofia feminista que dê conta das
+       peculiaridades do Sul global, o que, aliás, tampouco creio ser a
+       intenção de Butler, que fala, naturalmente, com base em sua
+       perspectiva situada. O que chamo a atenção aqui é, justamente, ao
+       questionarmos se temos feito o mesmo. O diálogo de diferente pontos
+       de vista, inclusive oriundos do Norte global, é sempre bem-vindo,
+       como foi aliás a intenção da obra de Butler e Spivak, Who sings the
+       nation-state?: Language, politics, belongingSPIVAK, Gayatri;
+       BUTLER, Judith. Who sings the nation-state?: Language, politics,
+       belonging. New York: Seagull Books, 2007., de 2007. Porém, diálogo
+       pressupõe que ambos os lados falem, e minha crítica é que não temos
+       falado suficientemente - ao menos, não com nossas próprias vozes.
+     * ^17
+       Instituto Brasileiro de Geografia e Estatística - IBGEIBGE -
+       Instituto Brasileiro de Geografia e Estatística. Pesquisa por
+       Amostra de Domicílios 2015 - PNAD. Disponível em: Disponível em:
+       https://ww2.ibge.gov.br/home/estatistica/populacao/trabalhoerendime
+       nto/pnad2015/default_brasil.shtm . Acesso em: 25 ago. 2020.
+       https://ww2.ibge.gov.br/home/estatistica... . Pesquisa por Amostra
+       de Domicílios 2015 - PNAD. Disponível em:
+       https://ww2.ibge.gov.br/home/estatistica/populacao/trabalhoerendime
+       nto/pnad2015/default_brasil.shtm. Acesso em: 25 ago. 2020.
+     * ^18
+       Sobre a importância de tal noção na obra de Beauvoir, ver o
+       clássico artigo de Linnell Secomb (1999SECOMB, Linnell. Beauvoir’s
+       minoritarian philosophy. Hypatia, v, 14, n. 4, p. 96-113, 1999.,
+       especialmente p. 97-98).
+     * ^19
+       Demarco essa questão, porque, tratando-se de trabalhos de teoria
+       feminista escritos por pesquisadoras(es) de Filosofia, é comum que
+       Beauvoir seja o ponto de partida. Recentemente, muitas revistas
+       brasileiras da área lançaram edições na temática de filosofia
+       feminista - como os periódicos Etic@ (v. 12, n 2), Ekstasis (v. 8,
+       n. 2) e Peri (v. 10, n. 2) - o que representa, sem dúvida,
+       iniciativas louváveis para o incentivo à diversidade, e
+       diversificação, das nossas pesquisas acadêmicas. Entretanto, se não
+       formos atentas(os) aos alertas do filósofo Margutti (2018MARGUTTI,
+       Paulo. Filosofia Brasileira e Pensamento Descolonial. Sapere Aude,
+       v. 9, n. 18, p. 223-239, 2018.) e da filósofa Susana de Castro
+       (2019CASTRO, Susana de. O compromisso feminista com a luta
+       decolonial antirracista. Ekstasis: Revista de Hermenêutica e
+       Fenomenologia, v. 8, n. 2, p. 63-71, 2019.) sobre a necessidade de
+       descolonizar a filosofia, acabaremos por reproduzir, também nas
+       filosofias ditas “marginalizadas”, a lógica colonial e
+       intelectualmente cômoda de meros(as) comentaristas acríticos(as) da
+       filosofia oriunda do Norte global.
+
+Datas de Publicação
+
+     * Publicação nesta coleção
+       21 Fev 2022
+     * Data do Fascículo
+       2022
+
+Histórico
+
+     * Recebido
+       31 Ago 2020
+     * Aceito
+       11 Jan 2021
+
+   Creative Common - by 4.0
+   Este é um artigo publicado em acesso aberto sob uma licença Creative
+   Commons
+   (BUTTON) ×Close
+
+Sobre o autor
+
+   Juliana Oliveira Missaggia
+   Docente na Universidade Federal de Santa Maria (UFSM), Santa Maria, RS
+   - Brasil. E-mail: jumissaggia@gmail.com.
+     * http://orcid.org/0000-0002-9170-8375
+
+   (BUTTON) ×Close
+
+Como citar
+
+   ____________________copiar
+
+     *
+          +
+          +
+          +
+          +
+
+     *
+          +
+          +
+          +
+          +
+          +
+          +
+          +
+
+   Universidade Estadual Paulista, Departamento de Filosofia Av.Hygino
+   Muzzi Filho, 737, 17525-900 Marília-São Paulo/Brasil, Tel.: 55 (14)
+   3402-1306, Fax: 55 (14) 3402-1302 - Marília - SP - Brazil
+   E-mail: transformacao@marilia.unesp.br
+   Acompanhe os números deste periódico no seu leitor de RSS
+
+   (BUTTON) ×Fechar
+
+Versão para download de PDF
+
+   PDF
+     * Português
+
+   (BUTTON) × Fechar
+
+Artigos relacionados
+
+     * Google
+     * Google Scholar
+
+   (BUTTON) ×Close
+
+Versões e tradução automática
+
+   Versão original do texto
+     * Português
+
+   Tradução automática
+     * Google Translator
+     * Microsoft Translator
+
+   SciELO - Scientific Electronic Library Online
+   Rua Dr. Diogo de Faria, 1087 – 9º andar – Vila Clementino 04037-003 São
+   Paulo/SP - Brasil
+   E-mail: scielo@scielo.org
+
+   FAPESP CAPES CNPq BVS BIREME FAP-UNIFESP
+
+   Open Access Leia a Declaração de Acesso Aberto
+
+   (BUTTON) ×Fechar
+
+Métricas
+
+   SciELO Analytics
+   Dimensions
+   Altmetric
+   Scite_
+   O problema do sujeito político do feminismo: reflexões a partir de um
+   viés descolonial
+   PlumX
+
+   (BUTTON) ×Close
+
+Mensagem
+
+   (BUTTON) ×Close
+
+Mensagem
+
+   Acessibilidade / Reportar erro

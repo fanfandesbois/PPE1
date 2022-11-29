@@ -42,7 +42,7 @@ while read -r URL; do
 	# code=$(curl -Ls -o /dev/null -w "%{http_code}" $URL)
 	# charset=$(curl -ILs -o /dev/null -w "%{content_type}" $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
 	
-	nb_occ=$(grep -o 'feminismo' $URL | wc)
+	nb_occ=$(curl $URL | grep -o 'feminismo' | wc)
 
 	echo -e "\tcode : $code";
 
@@ -71,7 +71,7 @@ while read -r URL; do
 	echo "$dump" >> "dumps-text/$basename-$lineno.txt"
 	echo "$contenu" >> "aspirations/$basename-$lineno.txt"
 
-	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td></tr><tr><td>$nb_occ</td><td>" >> $fichier_tableau
+	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td>$nb_occ</td></tr>" >> $fichier_tableau
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
 done < $fichier_urls
