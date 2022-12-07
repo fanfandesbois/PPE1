@@ -42,7 +42,8 @@ while read -r URL; do
 	# code=$(curl -Ls -o /dev/null -w "%{http_code}" $URL)
 	# charset=$(curl -ILs -o /dev/null -w "%{content_type}" $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
 	
-	nb_occ=$(curl $URL | grep -o 'feminismo' | wc)
+	
+	
 
 	echo -e "\tcode : $code";
 
@@ -62,14 +63,17 @@ while read -r URL; do
 		if [[ $charset -ne "UTF-8" && -n "$dump" ]]
 		then
 			dump=$(echo $dump | iconv -f $charset -t UTF-8//IGNORE)
-			#echo "$dump" >> "dumps-text/$basename-$lineno.txt"
+			#$echo "$dump" >> "dumps-text/$basename-$lineno.txt"
 		fi
 	else
 		echo -e "\tcode différent de 200 utilisation d'un dump vide"
 	fi
 	
-	echo "$dump" >> "dumps-text/$basename-$lineno.txt"
-	echo "$contenu" >> "aspirations/$basename-$lineno.txt"
+	echo "$dump" > "dumps-text/$basename-$lineno.txt"
+	echo "$contenu" > "aspirations/$basename-$lineno.txt"
+	
+	nb_occ=$(echo "$dump" | grep -o 'feminismo' | wc -l)
+	context=$(echo "$dump" | grep -oC 'feminismo') 
 
 	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td>$nb_occ</td></tr>" >> $fichier_tableau
 	echo -e "\t--------------------------------"
