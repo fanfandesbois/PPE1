@@ -37,6 +37,16 @@ Je me suis remise à l'amélioration du script et j'ai réussi à avancer et à 
 Je me suis résolue à redécouper chaque étape (Et ce fut très efficace)
 Je vais essayer l'exercice 4. 
 Il faut déjà que je trouve comment récupérer les lignes précédentes et suivantes. 
+
+## 7 et 14 décembre 2022
+- J'ai amélioré mon script avec mes camarades de projet. Nous sommes finalement arrivés à une version que je mets également à disposition sur mon répertoire personnel. 
+- J'ai récupéré la version du script iTrameur et je l'ai ensuite exécuter sur mon répertoire personnel.
+
+## 4 janvier 2023 
+- Je me concentre en particulier sur le projet et sur l'étude avec iTrameur. 
+- J'ai fait un nuage de mot sur le site wordcloud.com
+
+
  
 
 
